@@ -1,11 +1,11 @@
-About hdlib
-===========
+About hdlib-feedstock
+=====================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/hdlib-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/fabio-cumbo/hdlib
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/hdlib-feedstock/blob/main/LICENSE.txt)
 
 Summary: hdlib
 
