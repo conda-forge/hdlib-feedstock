@@ -1,5 +1,5 @@
 {% set name = "hdlib" %}
-{% set version = "0.1.0" %}
+{% set version = "0.1.4" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: a29590b61bf5d192a7e969379c58fea1fc3eae96582bfdd479aba0aa50b79a8c
+  sha256: 75ac15d91b28a74b797fee248995f293748c1613ab8196ee7baeeaaf09ada92f
 
 build:
   number: 0
