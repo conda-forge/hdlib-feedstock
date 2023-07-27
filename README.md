@@ -1,11 +1,11 @@
-About hdlib
-===========
-
-Home: https://github.com/fabio-cumbo/hdlib
-
-Package license: MIT
+About hdlib-feedstock
+=====================
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/hdlib-feedstock/blob/main/LICENSE.txt)
+
+Home: https://github.com/cumbof/hdlib
+
+Package license: MIT
 
 Summary: hdlib
 
@@ -146,5 +146,5 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
-* [@fabio-cumbo](https://github.com/fabio-cumbo/)
+* [@cumbof](https://github.com/cumbof/)
 
